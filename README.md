@@ -63,5 +63,7 @@ Query (natural language) → Hybrid RAG (BM25 + Semantic + RRF)
 <p align="center">
   <a href="https://linkedin.com/in/igor-eduardo-92a9a2b0">LinkedIn</a> ·
   <a href="https://docminds.ai">DocMinds.ai</a> ·
-  <a href="https://igoreduardo.com">igoreduardo.com</a>
+  <a href="https://igoreduardo.com">igoreduardo.com</a> ·
+  <a href="https://medium.com/@igorcnnbd">Medium</a> ·
+  <a href="https://scholar.google.com/citations?user=AOA75soAAAAJ&hl=en&authuser=1">Google Scholar</a>
 </p>
