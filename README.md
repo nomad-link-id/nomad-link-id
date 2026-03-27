@@ -10,6 +10,7 @@ Previously: successful founder exit (acquired) and 7 years in M&A/VC with portfo
 
 ## Open Source
 
+- [llm-trust-layer](https://github.com/nomad-link-id/llm-trust-layer) — End-to-end LLM trust infrastructure: smart routing + hybrid RAG + citation verification in one call. TypeScript.
 - [hybrid-rag-pipeline](https://github.com/nomad-link-id/hybrid-rag-pipeline) — Production RAG combining BM25 + semantic search + RRF with authority boosting. TypeScript, pgvector.
 - [citation-guard](https://github.com/nomad-link-id/citation-guard) — Post-generation citation verification. Eliminates hallucinated references. TypeScript.
 - [model-router-chain](https://github.com/nomad-link-id/model-router-chain) — Smart LLM routing with fallback chain. 80-95% cost reduction. TypeScript.
